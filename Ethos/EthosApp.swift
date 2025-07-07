@@ -11,7 +11,7 @@ import SwiftUI
 struct EthosApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EthosView()
         }
     }
 }
